@@ -4,3 +4,5 @@ catboost_info/catboost_training.json
 catboost_info/learn_error.tsv
 catboost_info/learn/events.out.tfevents
 catboost_info/time_left.tsv
+sample_submission_grid.csv
+threshold_sample_sub.csv
