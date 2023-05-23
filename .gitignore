@@ -6,3 +6,14 @@ catboost_info/learn/events.out.tfevents
 catboost_info/time_left.tsv
 sample_submission_grid.csv
 threshold_sample_sub.csv
+my_dict.csv
+sample_submission_all_features_edges_total_auth.csv
+sample_submission_all_features_edges.csv
+sample_submission_all_features.csv
+features_edgelist.csv
+features_authors.csv
+cleaned_abstracts_scibert.csv
+features_authors.csv
+features_edgelist.csv
+edgelist_graph.ipynb
+main DL_testing.ipynb
